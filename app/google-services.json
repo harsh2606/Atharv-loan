@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473883225579",
+    "firebase_url": "https://loan-700df.firebaseio.com",
+    "project_id": "loan-700df",
+    "storage_bucket": "loan-700df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473883225579:android:867d9f25a7102af0dc7dae",
+        "android_client_info": {
+          "package_name": "com.harsh.loan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473883225579-k73r3mub4oto98futv8makjpgsbt67vn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harsh.loan",
+            "certificate_hash": "caaffe1ad058d863aa676389a33733b471cdc8b2"
+          }
+        },
+        {
+          "client_id": "473883225579-kkdm9ebcivra9amdgt9hcml3p795k1n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoTh118p7VQhwkaLSSAmVur90QQxV2E40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473883225579-kkdm9ebcivra9amdgt9hcml3p795k1n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

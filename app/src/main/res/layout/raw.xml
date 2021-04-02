@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="15dp"
+    >
+
+
+
+
+
+    <LinearLayout
+        android:background="@drawable/cornerssss"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/imageview"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/car2"/>
+
+        <TextView
+            android:id="@+id/textview"
+            android:layout_margin="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="harsh"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:fontFamily="@font/mullingardemo"/>
+
+
+    </LinearLayout>
+</RelativeLayout>
